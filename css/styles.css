@@ -60,6 +60,7 @@
 .profile--img-cover-containner{
     border-bottom: 0.4em solid var(--primary-border-color);
     height: 100%;
+    width:100%;
     background-color:  var(--primary-border-color);
 
 
